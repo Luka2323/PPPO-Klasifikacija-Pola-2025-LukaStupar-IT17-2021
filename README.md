@@ -1,2 +1,5 @@
-# PPPO-Klasifikacija-Pola-2025-LukaStupar-IT17-2021
-Klasifikacija pola na osnovu slika lica
+# Klasifikacija pola na osnovu slika lica
+
+**Predmet:** Principi prezentacije i prepoznavanje oblika  
+**Smer:** Inženjerstvo informacionih sistema  
+**Tema:** Klasifikacija pola na osnovu slika lica primenom CNN
